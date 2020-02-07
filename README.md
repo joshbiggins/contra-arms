@@ -1,6 +1,6 @@
 # Contra Arms
 This is a sample project that replicates the "ball-and-chain" limbs found in every 16-bit run-n-gun game (hence the project title).
-How to use:
+# How to use:
 The two objects found in test scene, "ArmStart" and "ArmEnd", represent the start and end of the limb, respectively.
 
 -To move the arm end around, simply click and drag around the screen.
